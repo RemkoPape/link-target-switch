@@ -1,4 +1,4 @@
-# Link Target Switching
+# Link Target Switch
 
 Choose **per click** whether a web link opens in Obsidian's built-in **Web viewer** or in your **system browser**, without going through the right-click menu.
 
