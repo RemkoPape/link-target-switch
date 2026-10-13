@@ -1,0 +1,9 @@
+{
+  "id": "link-target-switch",
+  "name": "Link Target Switch",
+  "version": "1.0.0",
+  "minAppVersion": "1.8.0",
+  "description": "Choose per click whether web links open in the Web viewer or your browser. Hold a key to switch, or flip the default from the status bar.",
+  "author": "Remko Pape",
+  "isDesktopOnly": true
+}
